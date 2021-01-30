@@ -1,0 +1,2 @@
+Ovo je jedna linija u fajlu!!!
+Ovo je jos jedna linija upisana u fajl dodata na proslu liniju
